@@ -597,5 +597,12 @@
 		"name": "ACCB",
 		"description": "破烂中寻找记忆.",
 		"github_username": "Lbb886"
+	},
+	"99": {
+		"domain": "blog.kong.college",
+		"icon": "https://image.kong.college/i/2025/09/09/spq9n6.png",
+		"name": "ACCB",
+		"description": "渗透测试，安全运维.",
+		"github_username": "28.7的博客"
 	}
 }
